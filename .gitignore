@@ -1,0 +1,12 @@
+# Binaries
+/mitsuami-unit-go
+/unit
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Model files
+*.gguf
+/models/
